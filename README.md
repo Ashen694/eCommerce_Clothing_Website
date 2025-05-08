@@ -31,7 +31,7 @@ To get this project up and running, follow these steps:
 1. Clone the repository to your local machine:
 
    ```bash
-   gh repo clone JamZee99/eCommerce_Clothing_Website
+   gh repo clone ashen694/eCommerce_Clothing_Website
    ```
 
 2. Navigate to the project directory:
